@@ -1,0 +1,30 @@
+{
+  "Materi": {
+    "13001": {
+      "Judul Materi": "Pantun",
+      "Mata Pelajaran": "Bahasa Indonesia",
+      "Tingkat Kemudahan": "Mudah"
+    },
+    "13002": {
+      "Judul Materi": "SPLDV",
+      "Mata Pelajaran": "Matematika",
+      "Tingkat Kemudahan": "Sedang"
+    }
+  },
+  "Pelajar": {
+    "12001": {
+      "Email": "tonystark@gmail.com",
+      "Jenis Kelamin": "Laki-Laki",
+      "Kelas": 6,
+      "Nama": "Tony Stark",
+      "Tanggal Lahir": "2007-02-14"
+    },
+    "12002": {
+      "Email": "steverogers@gmail.com",
+      "Jenis Kelamin": "Laki-Laki",
+      "Kelas": 4,
+      "Nama": "Steve Rogers",
+      "Tanggal_Lahir": "2009-07-17"
+    }
+  }
+}
